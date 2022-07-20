@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=f\ victoria
+comment0.target=MenuFinJuego(javax.swing.JFrame,\ boolean)
+comment1.params=arg0
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

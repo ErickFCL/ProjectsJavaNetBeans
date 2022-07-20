@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Bala(int,\ int)
+comment1.params=
+comment1.target=int\ getPosX()
+comment2.params=
+comment2.target=int\ getPosY()
+comment3.params=
+comment3.target=void\ moverBala()
+comment4.params=
+comment4.target=void\ actualizarRect()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getRect()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=nivel\ f
+comment0.target=Escenario(int,\ javax.swing.JFrame)
+comment1.params=arg1
+comment1.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.params=arg0
+comment2.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment4.text=\r\n\ Este\ metodo\ se\ encarga\ del\ renderizado\ de\ la\ pantalla\ cada\ instante\ de\ tiempo.\r\n
+numComments=5

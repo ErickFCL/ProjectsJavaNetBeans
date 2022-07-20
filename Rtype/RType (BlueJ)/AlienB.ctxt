@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ nivel
+comment0.target=AlienB(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ mover()
+comment1.text=\r\n\ Movemos\ la\ nave\ en\ funcion\ de\ la\ velocidad\r\n
+comment2.params=
+comment2.target=void\ cambiarVelocidadY()
+comment3.params=
+comment3.target=void\ cambiarSentidoY()
+comment3.text=\r\n\ cambia\ el\ sentido\ de\ movimiento\ de\ la\ nave\ B\r\n
+comment4.params=
+comment4.target=void\ actualizarRect()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getRect()
+comment5.text=\r\n\ Devuelve\ un\ rect\ con\ informacion\ de\ la\ posicion\ y\ tama\u00F1o\ de\ la\ nave\r\n\ @return\ Rect\r\n
+numComments=6

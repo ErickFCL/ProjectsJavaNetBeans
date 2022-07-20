@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getPosX()
+comment1.params=
+comment1.target=int\ getPosY()
+comment2.params=x
+comment2.target=void\ setPosX(int)
+comment3.params=y
+comment3.target=void\ setPosY(int)
+comment4.params=
+comment4.target=boolean\ getVive()
+comment4.text=\r\n\ @return\ vive,\ si\ la\ nave\ esta\ viva\ o\ no\r\n
+comment5.params=
+comment5.target=int\ spriteexplosion()
+comment5.text=\r\n\ \ Metodo\ auxiliar\ para\ realizar\ una\ animacion\ de\ una\ explosion\ cuando\ hay\ una\ colision\ de\ la\ nave\ y\ es\ destruida\r\n
+comment6.params=
+comment6.target=int\ getExplosion()
+comment7.params=
+comment7.target=void\ tocado()
+numComments=8
